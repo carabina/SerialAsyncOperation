@@ -29,7 +29,6 @@ To integrate SerialAsyncOperation into your Xcode project using CocoaPods, speci
 ```ruby
 source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '8.0'
-use_frameworks!
 
 target '<Your Target Name>' do
     pod 'SerialAsyncOperation'
